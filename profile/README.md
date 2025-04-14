@@ -6,7 +6,7 @@ AdapptOnAzure is an internal project run by [Adappt](https://adappt.ai). With we
 
 Projects here are open to all contributions. Commits need to be made in a neat and atomic fashion, and we generally aim to look for incremental improvements rather than complete overhauls when it comes to contributions.
 
-We aim to licence all code under a permission licence, with a preference for dual licencing under the Apache2 + MIT licence, as is commonly seen within the Rust community.
+We aim to licence all code under a permissive licence, with a preference for licencing under the MIT licence.
 
 # Security
 
